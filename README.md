@@ -36,9 +36,7 @@
 * Cross platform
   - Windows, macOS and Linux ready.
 
-<a href="https://www.patreon.com/amitmerchant">
-	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a>
+<a href="https://buymeacoffee.com/amitmerchant" target="_blank">Buy Me a Coffee</a> if you like this app!
 
 
 ## Dark Mode
@@ -83,6 +81,9 @@ You can [download](https://github.com/amitmerchant1990/pomolectron/releases/tag/
 
 You can also get the [Windows binaries](http://www.softpedia.com/get/Others/Miscellaneous/Pomolectron.shtml) from Softpedia.
 
+## Try on web
+
+You can try an online version of this: [Pomodoro Timer](https://notepad.js.org/pomodoro-timer/)
 
 ## News
 Pomolectron was [trending](https://news.ycombinator.com/item?id=13878898) on the Hacker News and on [GitHub](https://raw.githubusercontent.com/amitmerchant1990/test/master/trending.JPG) during the day of its launch.
